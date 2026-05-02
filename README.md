@@ -1,10 +1,8 @@
-<a id="readme-top"></a>
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
+[![MIT License][license-shield]][license-url]
 
 <br />
 <div align="center">
@@ -28,7 +26,7 @@ Bagian ini berfokus pada tahapan **dataset generation**, yaitu proses transforma
 Dataset awal bersumber dari **Kronodroid**, yaitu kumpulan file APK yang dikurasi oleh Dr. Alejandro dari Tallinn University. Dataset ini terdiri dari dua kategori utama:
 
 * **Malware**
-* **Benign (aplikasi normal)**
+* **Benign**
 
 📌 Referensi Kronodroid:
 👉 *[Tambahkan link paper Kronodroid di sini]*
@@ -79,7 +77,7 @@ Pendekatan ini lebih sederhana dan berfokus pada bytecode aplikasi sebagai repre
 
 | Split      | Benign | Malware |
 | ---------- | ------ | ------- |
-| Train      | 2,900  | 29,400  |
+| Train      | 29,600 | 29,400  |
 | Validation | 3,600  | 3,600   |
 | Test       | 3,600  | 3,600   |
 
@@ -134,19 +132,18 @@ dataset/
 
 ## Contact
 
-Email - [ummuathiyyah05@gmail.com](mailto:ummuathiyyah05@gmail.com)
+Email : [ummuathiyyah05@gmail.com](mailto:ummuathiyyah05@gmail.com)
 
 LinkedIn Profile :
 [Ummu Athiya](https://www.linkedin.com/in/ummu-athiya-833b541b7/)
 
-
 [contributors-shield]: https://img.shields.io/github/contributors/ATHENA-Malware-APK-Detection-System/Dataset-Generation.svg?style=for-the-badge
-[contributors-url]: #
+[contributors-url]: https://github.com/ATHENA-Malware-APK-Detection-System/Dataset-Generation/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/ATHENA-Malware-APK-Detection-System/Dataset-Generation.svg?style=for-the-badge
-[forks-url]: #
+[forks-url]: https://github.com/ATHENA-Malware-APK-Detection-System/Dataset-Generation/network/members
 [stars-shield]: https://img.shields.io/github/stars/ATHENA-Malware-APK-Detection-System/Dataset-Generation.svg?style=for-the-badge
-[stars-url]: #
+[stars-url]: https://github.com/ATHENA-Malware-APK-Detection-System/Dataset-Generation/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ATHENA-Malware-APK-Detection-System/Dataset-Generation.svg?style=for-the-badge
-[issues-url]: #
+[issues-url]: https://github.com/ATHENA-Malware-APK-Detection-System/Dataset-Generation/issues
 [license-shield]: https://img.shields.io/github/license/ATHENA-Malware-APK-Detection-System/Dataset-Generation.svg?style=for-the-badge
-[license-url]: #
+[license-url]: https://github.com/ATHENA-Malware-APK-Detection-System/Dataset-Generation/blob/main/LICENSE
