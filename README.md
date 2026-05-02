@@ -96,8 +96,8 @@ Tools dan library utama yang digunakan dalam proses dataset generation:
 * Python
 * NumPy
 * OpenCV
-* ZIPFile (untuk ekstraksi APK)
-* TensorFlow / Keras (untuk validasi pipeline)
+* ZIPFile
+* Math
 
 ---
 
