@@ -4,8 +4,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![License][license-shield]][license-url]
 
 <br />
 <div align="center">
@@ -140,7 +139,6 @@ Email - [ummuathiyyah05@gmail.com](mailto:ummuathiyyah05@gmail.com)
 LinkedIn Profile :
 [Ummu Athiya](https://www.linkedin.com/in/ummu-athiya-833b541b7/)
 
----
 
 [contributors-shield]: https://img.shields.io/github/contributors/ATHENA-Malware-APK-Detection-System/Dataset-Generation.svg?style=for-the-badge
 [contributors-url]: #
@@ -152,5 +150,3 @@ LinkedIn Profile :
 [issues-url]: #
 [license-shield]: https://img.shields.io/github/license/ATHENA-Malware-APK-Detection-System/Dataset-Generation.svg?style=for-the-badge
 [license-url]: #
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: #
