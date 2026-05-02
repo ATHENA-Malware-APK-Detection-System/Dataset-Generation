@@ -10,15 +10,13 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="https://github.com/ATHENA-Malware-APK-Detection-System/Dataset-Generation/blob/bd146c1bc58b8a385c1d1b564e3fe6a042f177f4/Logo.png" alt="Logo" width="100" height="100">
+    <img src="https://github.com/ATHENA-Malware-APK-Detection-System/Dataset-Generation/blob/a90692ab1f09ce3262ef63effd41ea68b5eeb319/Logo.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">Dataset Generation - APK to Image</h3>
 
   <p align="center">
     Pipeline untuk membangun dataset citra dari file APK Android untuk keperluan deteksi malware berbasis deep learning.
-    <br />
-    <a href="#"><strong>Explore the docs »</strong></a>
   </p>
 </div>
 
@@ -144,15 +142,15 @@ LinkedIn Profile :
 
 ---
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/ATHENA-Malware-APK-Detection-System/Dataset-Generation.svg?style=for-the-badge
 [contributors-url]: #
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/ATHENA-Malware-APK-Detection-System/Dataset-Generation.svg?style=for-the-badge
 [forks-url]: #
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/ATHENA-Malware-APK-Detection-System/Dataset-Generation.svg?style=for-the-badge
 [stars-url]: #
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/ATHENA-Malware-APK-Detection-System/Dataset-Generation.svg?style=for-the-badge
 [issues-url]: #
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/ATHENA-Malware-APK-Detection-System/Dataset-Generation.svg?style=for-the-badge
 [license-url]: #
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: #
