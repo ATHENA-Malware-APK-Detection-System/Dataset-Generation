@@ -23,13 +23,12 @@
 
 Bagian ini berfokus pada tahapan **dataset generation**, yaitu proses transformasi data mentah berupa file APK menjadi representasi citra digital yang dapat digunakan sebagai input model deep learning.
 
-Dataset awal bersumber dari **Kronodroid**, yaitu kumpulan file APK yang dikurasi oleh Dr. Alejandro dari Tallinn University. Dataset ini terdiri dari dua kategori utama:
+Dataset awal bersumber dari **Kronodroid**, yaitu kumpulan file APK yang dikurasi oleh Dr. Alejandro Guerra-Manzanares dari Tallinn University of Technology. Dataset ini terdiri dari dua kategori utama:
 
 * **Malware**
 * **Benign**
 
-📌 Referensi Kronodroid:
-👉 *[Tambahkan link paper Kronodroid di sini]*
+📌 Referensi: 👉 *[KronoDroid: Time-based Hybrid-featured Dataset for Effective Android Malware Detection and Characterization](https://www.sciencedirect.com/science/article/pii/S0167404821002236?via%3Dihub)*
 
 ---
 
@@ -69,8 +68,7 @@ Pendekatan ini lebih sederhana dan berfokus pada bytecode aplikasi sebagai repre
 
 📎 Kaggle Link:
 
-* RGB Dataset → *[https://www.kaggle.com/datasets/ummuathiya/kronodroidapk]*
-
+* RGB Dataset → *[Kaggle - KronoDroid Image Dataset RGB](https://www.kaggle.com/datasets/ummuathiya/kronodroidapk)*
 ---
 
 #### 📊 Grayscale Dataset
@@ -83,7 +81,7 @@ Pendekatan ini lebih sederhana dan berfokus pada bytecode aplikasi sebagai repre
 
 📎 Kaggle Link:
 
-* Grayscale Dataset → *[https://www.kaggle.com/datasets/ummuathiya/kronodroid-dex-only]*
+* Grayscale Dataset → *[Kaggle - KronoDroid Image Dataset Dex Only](https://www.kaggle.com/datasets/ummuathiya/kronodroid-dex-only)*
 
 ---
 
@@ -110,7 +108,7 @@ Pipeline ini melakukan beberapa tahapan utama:
    * RGB (3 channel)
    * Grayscale (1 channel)
 4. Resize citra ke ukuran seragam
-5. Penyimpanan ke struktur folder:
+5. Struktur Folder Dataset:
 
 ```
 dataset/
@@ -132,9 +130,8 @@ dataset/
 
 ## Contact
 
-Email : [ummuathiyyah05@gmail.com](mailto:ummuathiyyah05@gmail.com)
-
-LinkedIn Profile :
+Email : [ummuathiyyah05@gmail.com](mailto:ummuathiyyah05@gmail.com)<br>
+LinkedIn :
 [Ummu Athiya](https://www.linkedin.com/in/ummu-athiya-833b541b7/)
 
 [contributors-shield]: https://img.shields.io/github/contributors/ATHENA-Malware-APK-Detection-System/Dataset-Generation.svg?style=for-the-badge
