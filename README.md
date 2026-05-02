@@ -9,8 +9,8 @@
 
 <br />
 <div align="center">
-  <a href="https://drive.google.com/file/d/1cX_19i2fa7RvIvS0SOafUKQ3hzsB2yoE/view">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="#">
+    <img src="https://github.com/ATHENA-Malware-APK-Detection-System/Dataset-Generation/blob/bd146c1bc58b8a385c1d1b564e3fe6a042f177f4/Logo.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Dataset Generation - APK to Image</h3>
